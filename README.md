@@ -1,5 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/33970929/README.1.md)
-# Premier-League-Game-Predictor# Premier League Match Outcome Prediction
+# Premier-League-Game-Predictor
 
 CSC 4740 Data Mining course project by **Anuraag Dasari** and **Doron Yospa**.
 
