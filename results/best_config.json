@@ -1,0 +1,25 @@
+{
+  "config": {
+    "features": {
+      "elo": true,
+      "elo_home": 100,
+      "elo_k": 40,
+      "elo_regress": 0.0,
+      "ewm_span": 0,
+      "h2h": true,
+      "rest": false,
+      "venue": true,
+      "window": 10,
+      "draw_feats": false
+    },
+    "model": "ord",
+    "params": {
+      "C": 0.04575954759071174
+    }
+  },
+  "cv_logloss": 0.9719977601654352,
+  "cv_acc": 0.5427807486631016,
+  "cv_draw_auc": 0.5490493112903492,
+  "trial": 46581,
+  "with_odds": false
+}
