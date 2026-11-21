@@ -1,4 +1,4 @@
-[# Premier League Match Outcome Prediction
+# Premier League Match Outcome Prediction
 
 CSC 4740 Data Mining course project by **Anuraag Dasari** and **Doron Yospa**.
 
