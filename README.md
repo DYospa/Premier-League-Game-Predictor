@@ -1,4 +1,4 @@
-# Premier League Match Outcome Prediction
+[# Premier League Match Outcome Prediction
 
 CSC 4740 Data Mining course project by **Anuraag Dasari** and **Doron Yospa**.
 
@@ -151,7 +151,7 @@ Run `python pl_final.py` to generate this section.
 - Constantinou, A. and Fenton, N. (2013). Determining the level of ability of football teams by dynamic ratings based on the relative discrepancies in scores between adversaries.
 - Baboota, R. and Kaur, H. (2019). Predictive analysis and modelling football results using machine learning approach for English Premier League.
 - Hubacek, O., Sourek, G., and Zelezny, F. (2019). Exploiting sports-betting market using machine learning.
-- Bunker, R. and Thabtah, F. (2019). A machine learning framework for sport result prediction.
+- Bunker, R. and Thabtah, F. (2019). A machine learning framework for sport result prediction.](https://drive.google.com/file/d/1hjh0YyelTR3F1q9a5o17pYWTsY46amu4/view?usp=sharing)
 
 ## Acknowledgments
 
